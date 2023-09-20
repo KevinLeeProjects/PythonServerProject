@@ -44,7 +44,7 @@ async def main():
    global globalAPIKey
    global globalWHATMessage
    global globalMyPort
-   globalAPIKey = "AIzaSyDX6PcvUKj__JJ1YxsPj0oHUAxPFqhipp4"
+   globalAPIKey = "" #Had to delete my API key so no one would use my account
    globalAllServerNames = ["Bailey", "Bona", "Campbell", "Clark", "Jaquez"]
    globalAllServerPorts = [10000, 10001, 10002, 10003, 10004]  # CHANGE
    # globalAllServerPorts = [17440, 17441, 17442, 17443, 17444] #Testing ports
